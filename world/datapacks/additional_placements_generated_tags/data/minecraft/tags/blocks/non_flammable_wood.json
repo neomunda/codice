@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:netherexp.claret_slab",
+    "additionalplacements:netherexp.claret_stairs",
+    "additionalplacements:netherexp.claret_pressure_plate",
+    "additionalplacements:netherexp.smokestalk_slab",
+    "additionalplacements:netherexp.smokestalk_stairs",
+    "additionalplacements:netherexp.smokestalk_pressure_plate"
+  ]
+}

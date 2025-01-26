@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:quark.iron_plate_slab",
+    "additionalplacements:quark.iron_plate_stairs",
+    "additionalplacements:quark.rusty_iron_plate_slab",
+    "additionalplacements:quark.rusty_iron_plate_stairs",
+    "additionalplacements:quark.raw_iron_bricks_slab",
+    "additionalplacements:quark.raw_iron_bricks_stairs"
+  ]
+}

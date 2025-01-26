@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:netherexp.soul_slate_slab",
+    "additionalplacements:netherexp.soul_slate_stairs",
+    "additionalplacements:netherexp.soul_slate_brick_slab",
+    "additionalplacements:netherexp.soul_slate_brick_stairs",
+    "additionalplacements:netherexp.soul_slate_tile_slab",
+    "additionalplacements:netherexp.soul_slate_tile_stairs"
+  ]
+}

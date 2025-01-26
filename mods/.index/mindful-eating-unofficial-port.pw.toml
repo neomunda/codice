@@ -1,0 +1,16 @@
+filename = 'mindful_eating-1.20.1-3.0.1.jar'
+name = 'Mindful Eating Unofficial Port'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98549d6c0fffb71f0d73a7ff8054eef83a312314'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5863621
+project-id = 1126547

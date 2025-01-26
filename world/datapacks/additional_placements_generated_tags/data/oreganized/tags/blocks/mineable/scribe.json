@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.quartz_stairs",
+    "additionalplacements:minecraft.quartz_slab",
+    "additionalplacements:minecraft.smooth_quartz_stairs",
+    "additionalplacements:minecraft.smooth_quartz_slab",
+    "additionalplacements:caverns_and_chasms.cut_amethyst_brick_stairs",
+    "additionalplacements:caverns_and_chasms.cut_amethyst_brick_slab"
+  ]
+}

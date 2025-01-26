@@ -1,0 +1,16 @@
+filename = 'gallery-1.20.1-1.0.1.jar'
+name = 'Gallery'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a0c2941fad542a66cb0813913ec1df4ec7c01afa643ec09f174947fdf34f5ca7ff258e6a0d0d7335a65a88094dfb53b4837914a85dc3710976a2e67cc6693dd4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EOA6vv83/versions/XRX5JKFy/gallery-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'EOA6vv83'
+version = 'XRX5JKFy'

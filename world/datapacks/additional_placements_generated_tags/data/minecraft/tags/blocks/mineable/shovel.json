@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:environmental.dirt_brick_stairs",
+    "additionalplacements:environmental.dirt_brick_slab",
+    "additionalplacements:environmental.dirt_tile_stairs",
+    "additionalplacements:environmental.dirt_tile_slab",
+    "additionalplacements:alexscaves.gingerbread_stairs",
+    "additionalplacements:alexscaves.gingerbread_slab",
+    "additionalplacements:alexscaves.frosted_gingerbread_stairs",
+    "additionalplacements:alexscaves.frosted_gingerbread_slab",
+    "additionalplacements:alexscaves.gingerbread_brick_stairs",
+    "additionalplacements:alexscaves.gingerbread_brick_slab",
+    "additionalplacements:alexscaves.frosted_gingerbread_brick_stairs",
+    "additionalplacements:alexscaves.frosted_gingerbread_brick_slab",
+    "additionalplacements:bountifulblocks.packed_snow_stairs",
+    "additionalplacements:bountifulblocks.packed_snow_slab",
+    "additionalplacements:bountifulblocks.snow_brick_stairs",
+    "additionalplacements:bountifulblocks.snow_brick_slab",
+    "additionalplacements:quark.dirt_bricks_slab",
+    "additionalplacements:quark.dirt_bricks_stairs"
+  ]
+}

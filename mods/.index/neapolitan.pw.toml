@@ -1,0 +1,16 @@
+filename = 'neapolitan-1.20.1-5.0.0.jar'
+name = 'Neapolitan'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d45b0ea7f477ab2b2e32b8431f42b40a92ae4b83b4f8d5b9918ca31d9180f4289c924294d281fb5d273360ecf3f60f68d2138d8fe86c9a80b387aaa8e8de67b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/InYMuiQt/versions/bSOBBF52/neapolitan-1.20.1-5.0.0.jar'
+
+[update.modrinth]
+mod-id = 'InYMuiQt'
+version = 'bSOBBF52'

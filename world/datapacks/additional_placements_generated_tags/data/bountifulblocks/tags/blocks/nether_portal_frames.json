@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:bountifulblocks.polished_obsidian_stairs",
+    "additionalplacements:bountifulblocks.polished_obsidian_slab",
+    "additionalplacements:bountifulblocks.obsidian_brick_stairs",
+    "additionalplacements:bountifulblocks.obsidian_brick_slab",
+    "additionalplacements:bountifulblocks.obsidian_tile_stairs",
+    "additionalplacements:bountifulblocks.obsidian_tile_slab"
+  ]
+}

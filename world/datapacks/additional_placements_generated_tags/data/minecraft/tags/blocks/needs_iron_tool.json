@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:netherexp.soul_slate_slab",
+    "additionalplacements:netherexp.soul_slate_stairs",
+    "additionalplacements:savage_and_ravage.blast_proof_stairs",
+    "additionalplacements:savage_and_ravage.blast_proof_slab",
+    "additionalplacements:quark.raw_gold_bricks_slab",
+    "additionalplacements:quark.raw_gold_bricks_stairs"
+  ]
+}

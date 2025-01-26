@@ -1,0 +1,16 @@
+filename = 'roasted-1.20.1-1.0.0.jar'
+name = 'Roasted'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc0260e1bf572f425ac7989aedc9d9928906906554e3abbefcb9cd54650d0b50b77d470c5a9376ac32cdbaa06df28d3aacb60f2b489a18ee8ad68cd0f872f895'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z7CSLUwQ/versions/Lq3W3Jk9/roasted-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'z7CSLUwQ'
+version = 'Lq3W3Jk9'

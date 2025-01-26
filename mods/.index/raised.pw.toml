@@ -1,0 +1,16 @@
+filename = 'raised-forge-1.20.1-4.0.1.jar'
+name = 'Raised'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0083de47f22b5300a63b10a6356aec6fb6f7e686b827748e73f272f6cd1769266f0b8c9c0b4cdd4e3eda2ece655ffec0f978bcd26f4f0922f86fbbc36eb57ced'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nCQRBEiR/versions/KikwC56L/raised-forge-1.20.1-4.0.1.jar'
+
+[update.modrinth]
+mod-id = 'nCQRBEiR'
+version = 'KikwC56L'

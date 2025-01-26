@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.end_stone_brick_stairs",
+    "additionalplacements:minecraft.end_stone_brick_slab",
+    "additionalplacements:endergetic.eumus_brick_slab",
+    "additionalplacements:endergetic.eumus_brick_stairs"
+  ]
+}

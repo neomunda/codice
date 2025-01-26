@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:quark.duskbound_block_slab",
+    "additionalplacements:quark.duskbound_block_stairs",
+    "additionalplacements:quark.myalite_slab",
+    "additionalplacements:quark.myalite_stairs",
+    "additionalplacements:quark.polished_myalite_slab",
+    "additionalplacements:quark.polished_myalite_stairs",
+    "additionalplacements:quark.myalite_bricks_slab",
+    "additionalplacements:quark.myalite_bricks_stairs"
+  ]
+}

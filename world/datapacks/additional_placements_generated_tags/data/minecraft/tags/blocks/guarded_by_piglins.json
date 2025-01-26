@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.light_weighted_pressure_plate",
+    "additionalplacements:savage_and_ravage.blast_proof_stairs",
+    "additionalplacements:savage_and_ravage.blast_proof_slab",
+    "additionalplacements:quark.raw_gold_bricks_slab",
+    "additionalplacements:quark.raw_gold_bricks_stairs"
+  ]
+}
