@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:bountifulfares.ceramic_tile_stairs",
+    "additionalplacements:bountifulfares.ceramic_tile_slab",
+    "additionalplacements:bountifulfares.checkered_ceramic_tile_stairs",
+    "additionalplacements:bountifulfares.checkered_ceramic_tile_slab",
+    "additionalplacements:bountifulfares.ceramic_mosaic_stairs",
+    "additionalplacements:bountifulfares.ceramic_mosaic_slab",
+    "additionalplacements:bountifulfares.checkered_ceramic_mosaic_stairs",
+    "additionalplacements:bountifulfares.checkered_ceramic_mosaic_slab"
+  ]
+}

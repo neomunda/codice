@@ -1,0 +1,255 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.environmental]
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.mysticsbiomes]
+			strawberry = true
+			cherry = true
+			peach = true
+			maple = true
+			sea_foam = true
+			tropical = true
+			jacaranda = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.endergetic]
+			poise = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			aspen = true
+			laurel = true
+			kousa = true
+			grimwood = true
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.pearfection]
+			callery = true
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.bountifulfares]
+			hoary = true
+			walnut = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.environmental]
+			hibiscus = true
+			willow = true
+			pine = true
+			plum = true
+			cheerful_plum = true
+			moody_plum = true
+			wisteria = true
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			kousa = true
+			currant = true
+			grimwood = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.pearfection]
+			callery = true
+			flowering_callery = true
+
+		[types.leaves_type.natures_spirit]
+			frosty_redwood = true
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			blue_wisteria = true
+			pink_wisteria = true
+			purple_wisteria = true
+			part_white_wisteria = true
+			part_blue_wisteria = true
+			part_pink_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			yellow_larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.bountifulfares]
+			apple = true
+			flowering_apple = true
+			orange = true
+			flowering_orange = true
+			lemon = true
+			flowering_lemon = true
+			plum = true
+			flowering_plum = true
+			hoary = true
+			walnut = true
+
+	[types.cake]
+
+		[types.cake.natures_spirit]
+			cheese_block = true
+
+		[types.cake.bountifulfares]
+			cocoa_cake = true
+
+		[types.cake.mysticsbiomes]
+			strawberry_cake = true
+			vanilla_cake = true
+			chocolate_cake = true
+			pink_frosted_cake = true
+			orange_frosted_cake = true
+			yellow_frosted_cake = true
+			lime_frosted_cake = true
+			cyan_frosted_cake = true
+			purple_frosted_cake = true
+
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
+		[types.cake.seasonals]
+			pumpkin_cake = true
+			sweet_berry_cake = true
+			beetroot_cake = true
+
+		[types.cake.peculiars]
+			yucca_cake = true
+			aloe_cake = true
+			passion_fruit_cake = true
+
+		[types.cake.farmersrespite]
+			coffee_cake = true
+
+		[types.cake.mynethersdelight]
+			magma_cake = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.woodworks]
+			bookshelf = true
+			chiseled_bookshelf = true
+			trapped_chest = true
+			boards = true
+			chest = true
+			ladder = true
+			beehive = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.hearth_and_home]
+			parquet = true
+			vertical_trim = true
+			trim = true
+			sanded_wood = true
+			lattice = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+

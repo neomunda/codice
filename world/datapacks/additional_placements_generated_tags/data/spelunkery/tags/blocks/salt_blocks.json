@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:spelunkery.rock_salt_slab",
+    "additionalplacements:spelunkery.rock_salt_stairs",
+    "additionalplacements:spelunkery.polished_rock_salt_slab",
+    "additionalplacements:spelunkery.polished_rock_salt_stairs",
+    "additionalplacements:spelunkery.rock_salt_brick_slab",
+    "additionalplacements:spelunkery.rock_salt_brick_stairs"
+  ]
+}

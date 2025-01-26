@@ -1,0 +1,16 @@
+filename = 'Quickshot 1.8.0-1.20.1.jar'
+name = 'Quickshot'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '03b298fc7d47cf5dfb154775def833fc207c982273eeb04d23b779c8765c288f02c7a28f12dc7d189ef590a1fdaf8b53eab68a0931ceabde2dbe2c96b2d86916'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kk4eMd7o/versions/dKxu54aS/Quickshot 1.8.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Kk4eMd7o'
+version = 'dKxu54aS'

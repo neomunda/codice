@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.stone_pressure_plate",
+    "additionalplacements:minecraft.polished_blackstone_pressure_plate",
+    "additionalplacements:copycats.copycat_stone_pressure_plate",
+    "additionalplacements:bountifulblocks.smooth_mud_pressure_plate"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:netherexp.smooth_netherrack_slab",
+    "additionalplacements:netherexp.smooth_netherrack_stairs",
+    "additionalplacements:netherexp.netherrack_brick_slab",
+    "additionalplacements:netherexp.netherrack_brick_stairs"
+  ]
+}

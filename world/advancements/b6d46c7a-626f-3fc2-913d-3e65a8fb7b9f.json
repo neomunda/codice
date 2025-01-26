@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-23 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-01-23 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2025-01-23 23:54:50 +0000"
+    },
+    "done": false
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2025-01-23 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2025-01-23 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

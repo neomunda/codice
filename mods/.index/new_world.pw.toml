@@ -1,0 +1,16 @@
+filename = 'newworld-forge-1.20.1-1.6.3.jar'
+name = 'NewWorld'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0bcc2697d97019e3a0dba43ca9c8165759a05936288e2eabf01868f6c58179f4a06684457267cf8f87a8fcbfe58096b2d40f03a03c13d2b43f24f006d0cd36f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8XpQehpK/versions/JK22Lvtz/newworld-forge-1.20.1-1.6.3.jar'
+
+[update.modrinth]
+mod-id = '8XpQehpK'
+version = 'JK22Lvtz'

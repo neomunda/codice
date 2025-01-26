@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:alexscaves.galena_slab",
+    "additionalplacements:alexscaves.galena_brick_slab",
+    "additionalplacements:alexscaves.limestone_slab",
+    "additionalplacements:alexscaves.smooth_limestone_slab",
+    "additionalplacements:alexscaves.radrock_slab",
+    "additionalplacements:alexscaves.radrock_brick_slab",
+    "additionalplacements:alexscaves.cinder_block_slab",
+    "additionalplacements:alexscaves.abyssmarine_slab",
+    "additionalplacements:alexscaves.abyssmarine_brick_slab",
+    "additionalplacements:alexscaves.smooth_bone_slab",
+    "additionalplacements:alexscaves.guanostone_slab",
+    "additionalplacements:alexscaves.guanostone_brick_slab",
+    "additionalplacements:alexscaves.coprolith_slab",
+    "additionalplacements:alexscaves.smooth_coprolith_slab"
+  ]
+}

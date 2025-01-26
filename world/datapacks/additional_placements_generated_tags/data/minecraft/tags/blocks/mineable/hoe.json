@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.moss_carpet",
+    "additionalplacements:natures_spirit.red_moss_carpet",
+    "additionalplacements:natures_spirit.xeric_thatch_stairs",
+    "additionalplacements:natures_spirit.xeric_thatch_slab",
+    "additionalplacements:natures_spirit.xeric_thatch_carpet",
+    "additionalplacements:natures_spirit.coconut_thatch_stairs",
+    "additionalplacements:natures_spirit.coconut_thatch_slab",
+    "additionalplacements:natures_spirit.coconut_thatch_carpet",
+    "additionalplacements:natures_spirit.evergreen_thatch_stairs",
+    "additionalplacements:natures_spirit.evergreen_thatch_slab",
+    "additionalplacements:natures_spirit.evergreen_thatch_carpet",
+    "additionalplacements:environmental.grass_thatch_slab",
+    "additionalplacements:environmental.grass_thatch_stairs",
+    "additionalplacements:environmental.cattail_thatch_slab",
+    "additionalplacements:environmental.cattail_thatch_stairs",
+    "additionalplacements:environmental.duckweed_thatch_slab",
+    "additionalplacements:environmental.duckweed_thatch_stairs",
+    "additionalplacements:neapolitan.frond_thatch_slab",
+    "additionalplacements:neapolitan.frond_thatch_stairs",
+    "additionalplacements:quark.thatch_slab",
+    "additionalplacements:quark.thatch_stairs",
+    "additionalplacements:wan_ancient_beasts.straw_slab",
+    "additionalplacements:wan_ancient_beasts.straw_stairs"
+  ]
+}

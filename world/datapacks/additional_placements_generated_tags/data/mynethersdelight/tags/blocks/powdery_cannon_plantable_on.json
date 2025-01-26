@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:netherexp.soul_slate_slab",
+    "additionalplacements:netherexp.soul_slate_stairs",
+    "additionalplacements:netherexp.soul_slate_brick_slab",
+    "additionalplacements:netherexp.soul_slate_brick_stairs",
+    "additionalplacements:netherexp.soul_slate_tile_slab",
+    "additionalplacements:netherexp.soul_slate_tile_stairs",
+    "additionalplacements:environmental.dirt_brick_stairs",
+    "additionalplacements:environmental.dirt_brick_slab",
+    "additionalplacements:environmental.dirt_tile_stairs",
+    "additionalplacements:environmental.dirt_tile_slab",
+    "additionalplacements:quark.soul_sandstone_bricks_slab",
+    "additionalplacements:quark.soul_sandstone_bricks_stairs",
+    "additionalplacements:quark.soul_sandstone_slab",
+    "additionalplacements:quark.soul_sandstone_stairs",
+    "additionalplacements:quark.cut_soul_sandstone_slab",
+    "additionalplacements:quark.smooth_soul_sandstone_slab",
+    "additionalplacements:quark.smooth_soul_sandstone_stairs"
+  ]
+}

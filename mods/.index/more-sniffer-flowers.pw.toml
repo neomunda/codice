@@ -1,0 +1,16 @@
+filename = 'MoreSnifferFlowers-1.20.1-forge-1.4.5.2.jar'
+name = 'More Sniffer Flowers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '60d8475bd450411d75f59e73d9141416204167002aca9585abcb14ba21102a0dca1bbc4b1c149589adaf41f51b169bdc5c18fa63cc7297f402b17fb6685b5c12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DbriYWc8/versions/2qfJJ6o6/MoreSnifferFlowers-1.20.1-forge-1.4.5.2.jar'
+
+[update.modrinth]
+mod-id = 'DbriYWc8'
+version = '2qfJJ6o6'
